@@ -118,7 +118,7 @@ jugador server.py
 
 
 ## 📌 Ejecuciones
-<img alt="https://postimg.cc/mhvbhyGs" width='100%' align="left" height=500;/><h2 align="left"></h2>
+<img alt="h[ttps://postimg.cc/mhvbhyGs](https://i.postimg.cc/bNJdCmCs/Whats-App-Image-2025-03-09-at-19-48-32-5b77a7e9.jpg)" width='100%' align="left" height=500;/><h2 align="left"></h2>
 ---
 ---
 **Autor**
