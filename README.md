@@ -92,13 +92,40 @@ Verifica si hay un ganador después de cada jugada. Revisa las combinaciones gan
 
 ## 🚀 Instalación y Ejecución
 
-### 1⃣  Clonar el repositorio
+### 1 Clonar el repositorio
 ```bash
-git clone https://github.com/Isaili/Simulaci-n-de-Tinaco-Concurrente.git
+https://github.com/Isaili/Gato-Colavorativo.git
 ```
 
-### 2⃣  Ejecutar la aplicación
+### 2  separa el server.py en una carpeta aparte 
+
+### 3  separa el jugador en otra carpeta
+
+## 4 ejecuta el server en la terminal con:
 ```bash
-python main.py
+python server.py
+```
+## 5 ejecuta en la jugadores.py en una nueva terminal y espera a que salga la interfaz para el jugador 1.
+```bash
+jugador server.py
 ```
 
+## 6 para el jugador 2 en la misma terminal ejecuta el archivo de ejcucion de un archivo de python en una terminal dedicada.
+
+## 7 conectate a el servidor y podras jugar
+
+---
+
+
+## 📌 Ejecuciones
+<img alt="https://postimg.cc/mhvbhyGs" width='100%' align="left" height=500;/><h2 align="left"></h2>
+---
+---
+**Autor**
+Isai Lopez
+---
+**Licencia**
+Este proyecto está bajo la licencia MIT.
+---
+
+ 
